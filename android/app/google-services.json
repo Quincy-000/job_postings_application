@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "912768615715",
+    "project_id": "miniproject-flutter-f2f85",
+    "storage_bucket": "miniproject-flutter-f2f85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912768615715:android:51626f9fcbe59d3c8af896",
+        "android_client_info": {
+          "package_name": "com.quincy.jobpostingsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912768615715-p4h6nvkv5bha7n86hq52cb6hl2m32u71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO-zjv9nKThqWQIpqEYxJlAHSLI8pnJaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912768615715-p4h6nvkv5bha7n86hq52cb6hl2m32u71.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
